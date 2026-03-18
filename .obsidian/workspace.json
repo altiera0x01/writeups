@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "52298c275c9c0c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Net Sec Challenge [0x01].md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Net Sec Challenge [0x01]"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f18b1ee71cf07ded",
+  "active": "52298c275c9c0c87",
   "lastOpenFiles": [
+    "images/Pasted image 20260318234603.png",
+    "Net Sec Challenge [0x01].md",
+    "images",
+    "images/Pasted image 20260318234511.png",
+    "Pasted image 20260318234037.png",
     "README.md"
   ]
 }
