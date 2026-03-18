@@ -207,11 +207,11 @@ I used the following command:
     
 - `-Pn` — skips host discovery since we already know the host is alive.
 
-![[Pasted image 20260318234603.png]]
+![0% detection](images/challenge-flag.png)
 
 After running the scan the page showed **0% chance of detection** and revealed the flag.
 
-![[Pasted image 20260318234511.png]]
+![flag revealed](images/challenge-0percent.png)
 
 ## Conclusion 
 
