@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB TwoMillion [0x04].md",
+                "file": "portswigger/blind-sqli-conditional-responses/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB TwoMillion [0x04]"
+              "title": "README"
             }
           }
         ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB TwoMillion [0x04].md",
+                "file": "portswigger/blind-sqli-conditional-responses/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для HTB TwoMillion [0x04]"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -239,8 +239,9 @@
   },
   "active": "55af155d559a766b",
   "lastOpenFiles": [
-    "images/registered.png",
+    "portswigger/blind-sqli-conditional-responses/README.md",
     "HTB TwoMillion [0x04].md",
+    "images/registered.png",
     "HTB Cap [0x03].md",
     "HTB Kobold [0x02].md",
     "images/root-shell 1.png",

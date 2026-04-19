@@ -1,0 +1,22 @@
+[+] Position 1: 6  →  password so far: 6
+[+] Position 2: k  →  password so far: 6k
+[+] Position 3: m  →  password so far: 6km
+[+] Position 4: y  →  password so far: 6kmy
+[+] Position 5: s  →  password so far: 6kmys
+[+] Position 6: g  →  password so far: 6kmysg
+[+] Position 7: f  →  password so far: 6kmysgf
+[+] Position 8: 0  →  password so far: 6kmysgf0
+[+] Position 9: v  →  password so far: 6kmysgf0v
+[+] Position 10: c  →  password so far: 6kmysgf0vc
+[+] Position 11: 2  →  password so far: 6kmysgf0vc2
+[+] Position 12: t  →  password so far: 6kmysgf0vc2t
+[+] Position 13: f  →  password so far: 6kmysgf0vc2tf
+[+] Position 14: f  →  password so far: 6kmysgf0vc2tff
+[+] Position 15: c  →  password so far: 6kmysgf0vc2tffc
+[+] Position 16: 7  →  password so far: 6kmysgf0vc2tffc7
+[+] Position 17: a  →  password so far: 6kmysgf0vc2tffc7a
+[+] Position 18: 7  →  password so far: 6kmysgf0vc2tffc7a7
+[+] Position 19: 1  →  password so far: 6kmysgf0vc2tffc7a71
+[+] Position 20: 6  →  password so far: 6kmysgf0vc2tffc7a716
+
+[+] Final password: 6kmysgf0vc2tffc7a716
