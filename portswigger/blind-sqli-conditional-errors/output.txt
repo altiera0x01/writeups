@@ -1,0 +1,22 @@
+[+] Position 1: m  ->  password so far: m
+[+] Position 2: 7  ->  password so far: m7
+[+] Position 3: 8  ->  password so far: m78
+[+] Position 4: u  ->  password so far: m78u
+[+] Position 5: 9  ->  password so far: m78u9
+[+] Position 6: j  ->  password so far: m78u9j
+[+] Position 7: w  ->  password so far: m78u9jw
+[+] Position 8: 0  ->  password so far: m78u9jw0
+[+] Position 9: n  ->  password so far: m78u9jw0n
+[+] Position 10: e  ->  password so far: m78u9jw0ne
+[+] Position 11: 7  ->  password so far: m78u9jw0ne7
+[+] Position 12: p  ->  password so far: m78u9jw0ne7p
+[+] Position 13: j  ->  password so far: m78u9jw0ne7pj
+[+] Position 14: c  ->  password so far: m78u9jw0ne7pjc
+[+] Position 15: z  ->  password so far: m78u9jw0ne7pjcz
+[+] Position 16: 1  ->  password so far: m78u9jw0ne7pjcz1
+[+] Position 17: h  ->  password so far: m78u9jw0ne7pjcz1h
+[+] Position 18: d  ->  password so far: m78u9jw0ne7pjcz1hd
+[+] Position 19: 0  ->  password so far: m78u9jw0ne7pjcz1hd0
+[+] Position 20: f  ->  password so far: m78u9jw0ne7pjcz1hd0f
+
+[+] Final password: m78u9jw0ne7pjcz1hd0f
