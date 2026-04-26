@@ -17,8 +17,8 @@ import requests
 import sys
 
 # CONFIG
-TARGET = "https://0a1c000c036236a08051c60200b500a4.web-security-academy.net"
-SESSION_COOKIE = "5qQBL8dtXAjyYqOHKtvPvL98lZWKeBkd"
+TARGET = "https://YOUR-LAB-ID.web-security-academy.net"
+SESSION_COOKIE = "YOUR_SESSION_COOKIE"
 ATTEMPTS_PER_USER = 5
 FIXED_PASSWORD = "invalid"
 LOCK_INDICATOR = "too many"
