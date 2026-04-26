@@ -1,0 +1,9 @@
+==================================================
+ 2FA Brute Force - Broken Logic (Multithreaded)
+==================================================
+[*] Brute-forcing 2FA code for user: carlos
+[*] Threads: 20
+[*] Trying 0000 to 9999...
+[+] Valid MFA code found: 0810
+[+] Done. MFA code: 0810
+[+] Load /my-account in browser using your session cookie.

@@ -239,6 +239,16 @@
   },
   "active": "55af155d559a766b",
   "lastOpenFiles": [
+    "portswigger/2FA-broken-logic/README.md",
+    "portswigger/2FA-broken-logic/Text Document.txt",
+    "portswigger/2FA-broken-logic/~icrosoft Excel Worksheet.tmp",
+    "portswigger/2FA-broken-logic/Microsoft Excel Worksheet.xlsx",
+    "portswigger/2FA-broken-logic/output.txt",
+    "portswigger/2FA-broken-logic/brute 2fa.py",
+    "portswigger/2FA-broken-logic",
+    "portswigger/2FA broken logic",
+    "portswigger/2",
+    "portswigger/Новая папка",
     "portswigger/blind-sqli-time-based/README.md",
     "HTB TwoMillion [0x04].md",
     "portswigger/blind-sqli-conditional-responses/README.md",
@@ -258,7 +268,6 @@
     "images/ssh-login.png",
     "Net Sec Challenge [0x01].md",
     "images/privatebin-homepage.md",
-    "images",
     "README.md"
   ]
 }
