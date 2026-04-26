@@ -1,0 +1,86 @@
+==================================================
+ Username Enumeration via Account Locking
+==================================================
+
+[*] Starting username enumeration...
+[*] Sending 5 requests per username
+
+[-] carlos
+[-] root
+[-] admin
+[-] test
+[-] guest
+[-] info
+[-] adm
+[-] mysql
+[-] user
+[-] administrator
+[-] oracle
+[-] ftp
+[-] pi
+[-] puppet
+[-] ansible
+[-] ec2-user
+[-] vagrant
+[-] azureuser
+[-] academico
+[-] acceso
+[-] access
+[-] accounting
+[-] accounts
+[-] acid
+[-] activestat
+[-] ad
+[-] adam
+[-] adkit
+[-] admin
+[-] administracion
+[-] administrador
+[-] administrator
+[-] administrators
+[-] admins
+[-] ads
+[-] adserver
+[-] adsl
+[-] ae
+[-] af
+[-] affiliate
+[-] affiliates
+[-] afiliados
+[-] ag
+[-] agenda
+[-] agent
+[-] ai
+[-] aix
+[-] ajax
+[-] ak
+[-] akamai
+[-] al
+[-] alabama
+[-] alaska
+[-] albuquerque
+[-] alerts
+[-] alpha
+[-] alterwind
+[-] am
+[-] amarillo
+[-] americas
+[-] an
+[-] anaheim
+[-] analyzer
+[-] announce
+[-] announcements
+[-] antivirus
+[-] ao
+[-] ap
+[-] apache
+[-] apollo
+[-] app
+[-] app01
+[-] app1
+[-] apple
+[-] application
+[-] applications
+[+] Valid username found: apps
+
+[+] Done. Valid username: apps
